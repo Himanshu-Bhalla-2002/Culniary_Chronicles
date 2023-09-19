@@ -12,29 +12,29 @@ By introducing dishes from various native places, we not only celebrate diversit
 <h2>🔧 Key Features</h2>
 🌟 Start Page
 <p align="center">
-  <img src="your_image_link_here" alt="Start Page"/>
+  <img src="https://i.imgur.com/tGgttbG.png" alt="Start Page"/>
 </p>
 🍜 Categories Page
 <p align="center">
-  <img src="your_image_link_here" alt="Categories Page"/>
+  <img src="https://i.imgur.com/6vTEkum.png" alt="Categories Page"/>
 </p>
 ➕ Submit Recipe Option
 <p align="center">
-  <img src="your_image_link_here" alt="Submit Recipe Option"/>
+  <img src="https://i.imgur.com/UwizNNE.png" alt="Submit Recipe Option"/>
 </p>
 📝 Submit Recipe Form
 <p align="center">
-  <img src="your_image_link_here" alt="Submit Recipe Form"/>
+  <img src="https://imgur.com/sBqgWa8" alt="Submit Recipe Form"/>
 </p>
-### 🍲 Recipe Information
+🍲 Recipe Information
 
 <p align="center">
-  <img src="https://github.com/your_username/SkillSync/assets/recipe_info.png" alt="Recipe Information"/>
+  <img src="https://i.imgur.com/iFe0kUq.png" alt="Recipe Information"/>
 </p>
 
 🔍 Search Option
 <p align="center">
-  <img src="your_image_link_here" alt="Search Option"/>
+  <img src="https://i.imgur.com/0a7GrEV.png" alt="Search Option"/>
 </p>
 <h2>🛠️ Tech Stack</h2>
 Backend: Node.js with MongoDB as the database.
