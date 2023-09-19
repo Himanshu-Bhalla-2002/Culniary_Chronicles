@@ -26,6 +26,12 @@ By introducing dishes from various native places, we not only celebrate diversit
 <p align="center">
   <img src="your_image_link_here" alt="Submit Recipe Form"/>
 </p>
+### 🍲 Recipe Information
+
+<p align="center">
+  <img src="https://github.com/your_username/SkillSync/assets/recipe_info.png" alt="Recipe Information"/>
+</p>
+
 🔍 Search Option
 <p align="center">
   <img src="your_image_link_here" alt="Search Option"/>
