@@ -24,7 +24,7 @@ By introducing dishes from various native places, we not only celebrate diversit
 </p>
 📝 Submit Recipe Form
 <p align="center">
-  <img src="https://imgur.com/sBqgWa8" alt="Submit Recipe Form"/>
+  <img src="https://i.imgur.com/sBqgWa8.png" alt="Submit Recipe Form"/>
 </p>
 🍲 Recipe Information
 
