@@ -41,8 +41,7 @@ npm (Node Package Manager)
 Clone the repository to your local machine.
 Navigate to the project directory.
 <h4>Install project dependencies using npm:</h4>
-bash
-Copy code
+
 npm install
 <h4>Configuration</h4>
 Create a .env file in the root of your project directory and populate it with the following environment variable:
